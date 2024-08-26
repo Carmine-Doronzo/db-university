@@ -1,0 +1,1 @@
+Repo designata a contenere uno screenshot di un diagramma di entità e relazionale, il db da interrogare e i file di markdown contenenti le consegne e le relative query da eseguire su phpMyAdmin
